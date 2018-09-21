@@ -6,13 +6,13 @@ promote anonymity our protocol can cut off the mapping from user input to output
 
 The experiment was performed atop a Dell desktop machine having an Intel Core i5-6500 CPU at 3.20GHz and 4.00G of RAM, running 64-bit windows 10.
 
-Version of the installation software:
+## Version of the installation software:
 
-go 1.8.4
+go  1.8.4
 
-btcd 0.12.0-beta
+btcd  0.12.0-beta
 
-btcwallet 0.7.0-alpha
+btcwallet  0.7.0-alpha
 
 
 # Installation:
