@@ -25,15 +25,15 @@ btcwallet https://github.com/btcsuite/btcwallet/releases
 
 # Getting Started:
 
--run btcd:
+- run btcd:
 
     btcd -u rpcuser -P rpcpass (--testnet --mainnet)
 
-create btcwallet:
+- create btcwallet:
 
     btcwallet -u rpcuser -P rpcpass --create
 
-run bctwallet:
+- run bctwallet:
 
     btcwallet -u rpcuser -P rpcpass -d trace
 
