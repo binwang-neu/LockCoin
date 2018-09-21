@@ -2,7 +2,7 @@
 We propose Lockcoin, a protocol to facilitate anonymous payments using the Bitcoin digital currency. Unlike other proposals to
 promote anonymity our protocol can cut off the mapping from user input to output address. What’s more our protocol can effectively prevent theft. In order to achievce this, we take advantage of blind signature shceme, multisignature scheme and anonymous communication networks. The scheme is fully compatible with Bitcoin, which provides anonymity, accountability, scalability, backwards-compatibillity and theft impossibility.
 
-# environment：
+## Environment:
 
 The experiment was performed atop a Dell desktop machine having an Intel Core i5-6500 CPU at 3.20GHz and 4.00G of RAM, running 64-bit windows 10.
 
@@ -23,7 +23,7 @@ btcd https://github.com/btcsuite/btcd/releases
 
 btcwallet https://github.com/btcsuite/btcwallet/releases
 
-# Getting Started:
+## Getting Started:
 
 run btcd:
 
