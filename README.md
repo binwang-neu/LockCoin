@@ -25,7 +25,7 @@ btcwallet https://github.com/btcsuite/btcwallet/releases
 
 # Getting Started:
 
-run btcd:
+-run btcd:
 
     btcd -u rpcuser -P rpcpass (--testnet --mainnet)
 
