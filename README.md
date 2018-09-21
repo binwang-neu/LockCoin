@@ -8,11 +8,11 @@ The experiment was performed atop a Dell desktop machine having an Intel Core i5
 
 ## Version of the installation software:
 
-go  1.8.4
+go:  1.8.4
 
-btcd  0.12.0-beta
+btcd:  0.12.0-beta
 
-btcwallet  0.7.0-alpha
+btcwallet:  0.7.0-alpha
 
 
 ## Installation:
@@ -25,7 +25,7 @@ btcwallet https://github.com/btcsuite/btcwallet/releases
 
 # Getting Started:
 
-<table><tr><td bgcolor=orange> 背景色是orange</td></tr></table>
+<table><tr><td bgcolor=#FFE4C4>这里的背景色是：Aquamarine，  十六进制颜色值：#7FFFD4， rgb(127, 255, 212)</td></tr></table>
 
 run btcd:
 
