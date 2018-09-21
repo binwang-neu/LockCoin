@@ -25,11 +25,11 @@ btcwallet https://github.com/btcsuite/btcwallet/releases
 
 # Getting Started:
 
-<table><tr><td bgcolor= BlueViolet > 背景色2 BlueViolet </td></tr></table>
-
 run btcd:
 
-    btcd -u rpcuser -P rpcpass (--testnet --mainnet)
+```buildoutcfg
+btcd -u rpcuser -P rpcpass (--testnet --mainnet)
+```
 
 create btcwallet:
 
