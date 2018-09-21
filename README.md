@@ -18,7 +18,7 @@ btcwallet:  0.7.0-alpha
 
 ## Installation:
 
-GO sdk https://golang.org/dl/
+go sdk https://golang.org/dl/
 
 btcd https://github.com/btcsuite/btcd/releases
 
@@ -44,7 +44,7 @@ run bctwallet:
 
 run server.go and client.go
 
-You can run the files in the IDE or in the command line.
+    You can run the files in the IDE or in the command line.
 
 If everything's working correctly, it'll say "listening on port 8082" or something like that and start downloading a lot of blocks. 
 Afterwards, it'll just run. And then you can run the client.go,it will send a quest to the server and receive a response with a long signature at the end.
