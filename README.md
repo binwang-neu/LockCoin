@@ -25,7 +25,7 @@ btcwallet https://github.com/btcsuite/btcwallet/releases
 
 # Getting Started:
 
-<table><tr><td bgcolor=#000000>这里的背景色是：Aquamarine，  十六进制颜色值：#7FFFD4， rgb(127, 255, 212)</td></tr></table>
+<table><tr><td bgcolor= BlueViolet > 背景色2 BlueViolet </td></tr></table>
 
 run btcd:
 
