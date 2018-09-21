@@ -1,5 +1,7 @@
 # LockCoin
-We propose Lockcoin, a protocol to facilitate anonymous payments using the Bitcoin digital currency. 
+We propose Lockcoin, a protocol to facilitate anonymous payments using the Bitcoin digital currency. Unlike other proposals to
+promote anonymity our protocol can cut off the mapping from user input to output address. What’s more our protocol can effectively prevent theft. In order to achievce this, we take advantage of blind signature shceme, multisignature scheme and anonymous communication networks. The scheme is fully compatible with Bitcoin, which provides anonymity, accountability, scalability, backwards-compatibillity and theft impossibility.
+
 Setting up the operating environment：
 
 # Installation:
