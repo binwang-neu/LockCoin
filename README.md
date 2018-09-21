@@ -26,7 +26,7 @@ btcwallet https://github.com/btcsuite/btcwallet/releases
 
 ## Notice
 
-If you have already completed the above preparations, you can import the project with you IDE(my IDE is [IntelliJ IDEA 2017.2.3](http://www.baidu.com)). The IDE will help you to install some dependency packages, Please note the version number of the dependent package which is very important. 
+If you have already completed the above preparations, you can import the project with you IDE(my IDE is [IntelliJ IDEA](https://www.jetbrains.com/idea/)). The IDE will help you to install some dependency packages, Please note the version number of the dependent package which is very important. 
 
 ## Getting Started:
 
