@@ -25,11 +25,11 @@ GO sdk https://golang.org/dl/
 
 # Getting Started:
 
-''' run btcd: btcd -u rpcuser -P rpcpass (--testnet --mainnet)
+run btcd: 'btcd -u rpcuser -P rpcpass (--testnet --mainnet)'
 
-create btcwallet: btcwallet -u rpcuser -P rpcpass --create
+create btcwallet: 'btcwallet -u rpcuser -P rpcpass --create'
 
-run bctwallet: btcwallet -u rpcuser -P rpcpass -d trace
+run bctwallet: 'btcwallet -u rpcuser -P rpcpass -d trace'
 
 run server.go 
 '''
