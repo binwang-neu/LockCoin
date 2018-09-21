@@ -27,13 +27,11 @@ btcwallet https://github.com/btcsuite/btcwallet/releases
 
 run btcd:
 
-```buildoutcfg
-btcd -u rpcuser -P rpcpass (--testnet --mainnet)
-```
+    btcd -u rpcuser -P rpcpass (--testnet --mainnet)
 
 create btcwallet:
 
-    btcwallet -u rpcuser -P rpcpass --create'
+    btcwallet -u rpcuser -P rpcpass --create
 
 run bctwallet:
 
