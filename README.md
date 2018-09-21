@@ -25,6 +25,8 @@ btcwallet https://github.com/btcsuite/btcwallet/releases
 
 # Getting Started:
 
+<table><tr><td bgcolor=orange> 背景色是orange</td></tr></table>
+
 run btcd:
 
     btcd -u rpcuser -P rpcpass (--testnet --mainnet)
