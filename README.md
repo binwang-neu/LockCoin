@@ -15,7 +15,7 @@ btcd  0.12.0-beta
 btcwallet  0.7.0-alpha
 
 
-# Installation:
+## Installation:
 
 btcd https://github.com/btcsuite/btcd/releases
 
