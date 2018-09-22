@@ -47,7 +47,7 @@ run server.go and client.go
     You can run the files in the IDE or in the command line.
 
 If everything's working correctly, it'll say "listening on port 8082" or something like that and start downloading a lot of blocks. 
-Afterwards, it'll just run. And then you can run the client.go,it will send a quest to the server and receive a response with a long signature at the end.
+Afterwards, it'll just run. And then you can run the client.go, it will send a quest to the server and receive a response with a long signature at the end.
 
 ps: We use a parallel strategy to simulate multiple users and test the time required to mix coins in different numbers of users. If you don't want user the Multi-threaded mode，you can comment out the code in the client.go.
 
