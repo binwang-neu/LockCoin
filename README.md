@@ -51,7 +51,7 @@ Just like this:
 
 ![image](https://github.com/B-doublemint/LockCoin/blob/master/startup.PNG)
 
-Afterwards, it'll just run. And then you can run the client.go, it will send a quest to the server and receive a response with a long signature at the end.As shown below:
+Afterwards, it'll just run. And then you can run the client.go, it will send a quest to the server and receive a response with a long signature at the end. As shown below:
 
 ![image](https://github.com/B-doublemint/LockCoin/blob/master/response.PNG)
 
