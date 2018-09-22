@@ -24,7 +24,7 @@ btcd https://github.com/btcsuite/btcd/releases
 
 btcwallet https://github.com/btcsuite/btcwallet/releases
 
-## Notice
+## Notice:
 
 If you have already completed the above preparations, you can import the project with you IDE(my IDE is [IntelliJ IDEA](https://www.jetbrains.com/idea/)). The IDE will help you install some dependency packages that are required for the program to run. Please note the version number of the dependent package which is very important. 
 
