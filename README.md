@@ -51,7 +51,9 @@ Just like this:
 
 ![image](https://github.com/B-doublemint/LockCoin/blob/master/startup.PNG)
 
-Afterwards, it'll just run. And then you can run the client.go, it will send a quest to the server and receive a response with a long signature at the end.
+Afterwards, it'll just run. And then you can run the client.go, it will send a quest to the server and receive a response with a long signature at the end.As shown below:
+
+![image](https://github.com/B-doublemint/LockCoin/blob/master/response.PNG)
 
 ps: We use a parallel strategy to simulate multiple users and test the time required to mix coins in different numbers of users. If you don't want user the Multi-threaded mode，you can comment out the code in the client.go.
 
